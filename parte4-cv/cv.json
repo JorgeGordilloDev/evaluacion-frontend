@@ -1,0 +1,324 @@
+{
+  "basics": {
+    "name": "Jorge Gordillo Canseco",
+    "label": "Full Stack Developer",
+    "image": "/me.jpeg",
+    "email": "jorgegordillo.dev@gmail.com",
+    "phone": "9621905714",
+    "url": "https://github.com/JorgeGordilloDev",
+    "summary": "+2 años de experiencia como Desarrollador Full Stack, experto en el desarrollo con Django, React, Express, Astro, entre otros lenguajes y frameworks. Demostrada capacidad para el liderazgo, la resolución de problemas y la generación de ideas.",
+    "location": {
+      "address": "",
+      "postalCode": "30700",
+      "city": "Tapachula, Chis.",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://linkedin.com/in/jorge-gordillo-/"
+      },
+      {
+        "network": "GitHub",
+        "username": "JorgeGordilloDev",
+        "url": "https://github.com/JorgeGordilloDev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Coding Studios",
+      "position": "Full Stack Developer",
+      "url": "https://codingstudios.xyz/",
+      "startDate": "2022-11-01",
+      "endDate": "2024-02-01",
+      "summary": "Colaboré en el desarrollo de diversos proyectos, destacando mi contribución principal en un sistema POS (punto de venta) dirigido a restaurantes.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Universidad Politécnica de Tapachula",
+      "position": "Full Stack Developer",
+      "url": "https://uptapachula.edu.mx/",
+      "startDate": "2022-01-01",
+      "endDate": "2023-02-01",
+      "summary": "Colaboré activamente en el desarrollo de un nuevo sistema de gentian de información para la universidad, desempeñándome inicialmente como desarrollador y posteriormente asumiendo el rol de líder del equipo.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Politécnica de Tapachula",
+      "url": "https://uptapachula.edu.mx/",
+      "area": "Ingeniería de Software",
+      "studyType": "Bachelor",
+      "startDate": "2020-08-01",
+      "endDate": "2023-07-01",
+      "score": "9.6",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Django",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Django Rest Framework",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "NoSQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Gira",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CenPOS",
+      "isActive": true,
+      "description": "Punto de venta centralizado para negocios",
+      "highlights": [],
+      "url": null,
+      "github": null
+    },
+    {
+      "name": "CS-Restaurant",
+      "isActive": true,
+      "description": "CRM y punto de venta para restaurantes",
+      "highlights": [],
+      "url": "https://cs-restaurant.codingstudios.xyz/login",
+      "github": null
+    },
+    {
+      "name": "CS-Ventas",
+      "isActive": false,
+      "description": "Punto de venta",
+      "highlights": [],
+      "github": null
+    },
+    {
+      "name": "Foto Carpa",
+      "isActive": false,
+      "description": "Lading page",
+      "highlights": [],
+      "url": "https://foto-carpa-next.vercel.app/",
+      "github": null
+    },
+    {
+      "name": "Hotel los Pinos",
+      "isActive": true,
+      "description": "Lading page",
+      "highlights": [],
+      "url": "https://hotel.codingstudios.xyz/",
+      "github": null
+    },
+    {
+      "name": "Grupo Funerario Imperial",
+      "isActive": true,
+      "description": "Lading page",
+      "highlights": [],
+      "url": "https://grupofunerarioimperial.com/",
+      "github": null
+    }
+  ]
+}
